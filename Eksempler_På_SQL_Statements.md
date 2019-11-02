@@ -9,3 +9,6 @@ Jeg bruger nu use kommandoen for at vælge den nye database at arbejde med. </br
 ![SQL_use](https://user-images.githubusercontent.com/54975711/68071978-a2c56f00-fd80-11e9-91df-f027f6ca7559.png)</br>
 Vi kan nu oprette en tabel i databasen med brugere, hvor id er primary key og auto_increment, hvilket betyder at id stiger med 1 hver gang til tilføjer en ny: </br>
 ![SQL_use](https://user-images.githubusercontent.com/54975711/68072093-2469cc80-fd82-11e9-9cfb-0567264a5613.png)</br>
+Vi kan nu indsætte data ind i vores tabel. vi behøver ikke at beskrive id, da den selv stiger. </br>
+Vi kan også vise data i tabellen med "SELECT": </br>
+![SQL_use](https://user-images.githubusercontent.com/54975711/68072243-d9e94f80-fd83-11e9-991d-fe9a90ca6ab3.png)</br>
