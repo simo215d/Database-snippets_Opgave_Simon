@@ -12,3 +12,5 @@ Vi kan nu oprette en tabel i databasen med brugere, hvor id er primary key og au
 Vi kan nu indsætte data ind i vores tabel. vi behøver ikke at beskrive id, da den selv stiger. </br>
 Vi kan også vise data i tabellen med "SELECT": </br>
 ![SQL_use](https://user-images.githubusercontent.com/54975711/68072243-d9e94f80-fd83-11e9-991d-fe9a90ca6ab3.png)</br>
+Nu kan vi bruge "UPDATE" til at opdatere vores tabel hvor id = 1: </br>
+![SQL_use](https://user-images.githubusercontent.com/54975711/68072432-02724900-fd86-11e9-9637-87472182582c.png)</br>
