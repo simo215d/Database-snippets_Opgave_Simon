@@ -1,3 +1,4 @@
+Jeg har gjort så den looper #2, #3 og #4 så man kan blive ved med at indtaste SQL kommandoer, med mindre man indtaster "exit", så går den til #5. Jeg gjorde også så man kan indtaste hvor mange columns man vil vise. variablen hedder "collNum" og den bliver brugt i #4.
 ```
 import java.sql.*;
 import java.util.Scanner;
