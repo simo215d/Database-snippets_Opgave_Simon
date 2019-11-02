@@ -48,5 +48,5 @@ public class SimpleJdbc {
     }
 }
 ```
-Eksempel på at jeg henter data fra en af mine databaser: </br>
+Eksempel på at jeg henter data fra min lego database: </br>
 ![SQL_login](https://user-images.githubusercontent.com/54975711/68075410-bdf7a500-fda7-11e9-8b81-245a51f78892.png)</br>
